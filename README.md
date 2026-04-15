@@ -4,6 +4,44 @@ A data analysis project that explores customer churn patterns in a telecom datas
 
 ---
 
+## 📊 Analysis Dashboard
+
+> 🔗 **[View Interactive Dashboard →](churn_dashboard.html)**
+> Open `churn_dashboard.html` in a browser for the full interactive visualization.
+
+### Key Metrics at a Glance
+
+| Metric | Value |
+|---|---|
+| Overall Churn Rate | 🔴 26.5% |
+| Retention Rate | 🟢 73.5% |
+| Total Customers | 7,043 |
+| Avg Monthly Charge | $64.8 |
+
+### Churn by Contract Type
+
+| Contract | Churn Rate | Risk |
+|---|---|---|
+| Monthly | 42% | 🔴 High |
+| Annual | 11% | 🟡 Medium |
+| Biennial | 3% | 🟢 Low |
+
+### Churn by Tenure Group
+
+| Tenure | Churn Rate | Risk |
+|---|---|---|
+| 0–3 months | 55% | 🔴 Critical |
+| 4–12 months | 35% | 🔴 High |
+| 13–24 months | 24% | 🟡 Medium |
+| 25–48 months | 14% | 🟡 Low-Medium |
+| 49+ months | 6% | 🟢 Low |
+
+### Monthly Charges vs Churn
+
+Customers paying **$80–$110/month** show significantly higher churn rates compared to lower-charge segments. Retained customers are more evenly distributed across charge ranges.
+
+---
+
 ## 📁 Dataset
 
 - **File:** `telecom_churn_csv.csv`
