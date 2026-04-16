@@ -40,6 +40,10 @@ A data analysis project that explores customer churn patterns in a telecom datas
 
 Customers paying **$80–$110/month** show significantly higher churn rates compared to lower-charge segments. Retained customers are more evenly distributed across charge ranges.
 
+
+<img width="1901" height="866" alt="Screenshot 2026-04-16 142148" src="https://github.com/user-attachments/assets/381fefb4-bede-4ba8-b3cc-ea1d84e5e932" />
+
+
 ---
 
 ## 📁 Dataset
