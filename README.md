@@ -90,7 +90,7 @@ The following visualizations are generated:
 - Calculate overall churn percentage
 - Break down churn rate by `ContractType` and `TenureGroup` combination
 
-### 5. Key Insights
+### 5. Key Insights#
 - 🚨 A significant portion of churned users are on **Monthly contracts with less than 3 months of tenure**
 - 💡 Recommendation: Improve **early engagement strategies** to retain new customers
 
