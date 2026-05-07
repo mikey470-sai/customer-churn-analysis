@@ -4,7 +4,7 @@ A data analysis project that explores customer churn patterns in a telecom datas
 
 ---
 
-# Analysis Dashboard
+##  Analysis Dashboard |
 
 > 🔗 **[View Interactive Dashboard →](churn_dashboard.html)**
 > Open `churn_dashboard.html` in a browser for the full interactive visualization.
