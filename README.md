@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis
+## 📊 Telecom Customer Churn Analysis
 
 A data analysis project that explores customer churn patterns in a telecom dataset using Python. The notebook performs end-to-end EDA (Exploratory Data Analysis), feature engineering, visualization, and business insight generation.
 
